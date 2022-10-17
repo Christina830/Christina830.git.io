@@ -1,0 +1,29 @@
+h1{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h3{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+h5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.container
+{
+    background-color:darkgrey;
+    border-radius: 25%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+    }
+body{
+    background-image:url(images.jpg);
+    background-size: cover;
+}
+.col{
+    border-style:   ;
+}
+img{
+    border-radius: 50%;
+}
+
